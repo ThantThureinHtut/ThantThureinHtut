@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Yin San<br><br>Junior Full Stack Developer | Laravel • React • Vue<br><br>---<br><br>## 🚀 About Me<br><br>I’m a junior full stack developer who enjoys building modern web applications and learning new technologies every day. I focus on writing clean, readable code and understanding how systems work in real-world scenarios.<br><br>I like exploring backend logic, real-time systems, and database design while also building clean UI with modern frontend tools.<br><br>---<br><br>## 🧠 Tech Stack<br><br>### 💻 Backend<br><br>* Laravel 11<br>* PHP<br>* REST APIs<br>* MySQL / PostgreSQL<br>* Eloquent ORM<br><br>### 🎨 Frontend<br><br>* React (Inertia.js)<br>* Vue (basic)<br>* Tailwind CSS v4<br>* ShadCN UI<br>* JavaScript (ES6+)<br><br>### ⚙️ Tools & Ecosystem<br><br>* Vite<br>* Axios<br>* TanStack React Query<br>* Laravel Echo (Realtime)<br>* Git & GitHub<br><br>---<br><br>## 🔥 What I Build<br><br>* 🛒 E-commerce systems (cart, order, variants like size + color)<br>* 📝 Blog / social platforms (real-time notifications, follow system)<br>* ⚡ Real-time features using WebSocket (Laravel Echo / Reverb)<br>* 📦 Clean backend structure with scalable database design<br><br>---<br><br>## 📚 Currently Learning<br><br>* Advanced Laravel architecture<br>* System design & scalable backend<br>* Database optimization & complex relationships<br>* Next.js (SSR concepts & caching)<br><br>---<br><br>## 🎯 Goals<br><br>* Become a strong mid-level full stack developer<br>* Build production-level applications<br>* Improve system design thinking<br>* Work in a professional development team<br><br>---<br><br>## 📫 Contact<br><br>* GitHub: [https://github.com/your-username](https://github.com/your-username)<br>* Email: [your-email@example.com](mailto:your-email@example.com)<br><br>
 
-<!--
-**ThantThureinHtut/ThantThureinHtut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThantThureinHtut&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThantThureinHtut&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThantThureinHtut&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=ThantThureinHtut&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
