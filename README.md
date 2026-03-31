@@ -46,7 +46,8 @@ I am currently pursuing a Diploma in Software Engineering at APU (Asia Pacific U
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: [https://github.com/your-username](https://github.com/thantthureinhtut)
+* Portfolio: [https://thantthureinhtut.vercel.app/](https://thantthureinhtut.vercel.app/)
+* Email: [your-email@example.com](mailto:codermyanmarjack@gmail.com)
 
 
